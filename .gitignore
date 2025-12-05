@@ -1,0 +1,14 @@
+.pytest_cache/
+__pycache__/
+
+build/
+build_*_*/
+sdkconfig
+
+build_summary_*.xml
+app_info_*.txt
+size_info_*.txt
+
+pytest_embedded_log/
+
+dependencies.lock
