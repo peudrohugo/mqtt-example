@@ -1,4 +1,4 @@
-# MQTT Communication with ESP32
+# Comunicação MQTT com ESP32
 
 ## Equipe
 
@@ -31,7 +31,7 @@ Este projeto tem como objetivo implementar uma aplicação ESP32 utilizando o pr
 - **Botão**: GPIO 33.
 - **LED**: GPIO 26.
 
-## Como Executar
+## Get Started
 
 1. Configure o broker MQTT no HiveMQ Cloud, assim como seu Web Client para gerenciamento dos tópicos.
 2. Faça o Flash no ESP32.
